@@ -15,4 +15,4 @@ I look forward to sharing my learnings with you all.
 *Pushing your changes*
 1. git add .
 2. git commit -m "Your commit message"
-3. git push origin main
+3. git push origin master
